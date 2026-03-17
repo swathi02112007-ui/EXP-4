@@ -84,6 +84,13 @@ Half wave rectifier with and without filter:
 Bridge rectifier with and without filter:
 
 ![alt text](tf.jpeg)
+## GRAPH:
+
+![alt text](4.jpeg)
+
+![alt text](4.1.jpeg)
+
+![alt text](4.2.jpeg)
 
 ## WAVEFORM:
 
